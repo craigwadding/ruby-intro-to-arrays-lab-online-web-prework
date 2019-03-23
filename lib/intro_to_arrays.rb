@@ -8,5 +8,5 @@ end
 
 def my_first_element
   ["Welcome to New York", "Taylor Swift"]
-  first_element[1]
+  my_first_element[1]
 end
