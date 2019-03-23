@@ -7,6 +7,6 @@ def array_with_two_elements
 end
 
 def my_first_element
-  ["Welcome to New York", "Taylor Swift"]
+  
   my_first_element.first 
 end
