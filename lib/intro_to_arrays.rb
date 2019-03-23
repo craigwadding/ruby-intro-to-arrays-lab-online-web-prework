@@ -8,6 +8,6 @@ end
 
 def my_first_element
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-my_first_element[0] 
+puts my_first_element[0] 
   
 end
