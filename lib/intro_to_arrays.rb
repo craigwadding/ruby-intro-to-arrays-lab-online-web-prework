@@ -6,7 +6,7 @@ def array_with_two_elements
   ["one", "two"] 
 end
 
-def my_first_element(first_element)
+def my_first_element(array)
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 puts first_element[0] 
   
