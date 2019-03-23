@@ -22,5 +22,5 @@ return array[-1]
 end 
 
 def first_element_with_array_methods(array)
-return.first 
+return array.first 
 end 
